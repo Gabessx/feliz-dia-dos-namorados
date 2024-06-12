@@ -2,7 +2,7 @@
     .countainer {
         flex-direction: colum;
     }
-
+}
 
 body {
     font-family: 'Arial', sans-serif;
@@ -19,7 +19,7 @@ body {
 .container {
     text-align: center;
     background: white;
-    padding: 20px;
+    padding: 1.25em;
     border-radius: 15px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     max-width: 600px;
@@ -97,4 +97,4 @@ h1 {
         font-size: .5rem;
     }
 }
-}
+
